@@ -1,0 +1,15 @@
+{
+    "name": "firegento/cookie-notice-translation-fix",
+    "authors": [
+        {
+            "email": "github@fabian-blechschmidt.de",
+            "name": "Fabian Blechschmidt"
+        }
+    ],
+    "license": "GPL-3.0",
+    "type": "magento-module",
+    "description": "Fixes a core bug to allow cookie notice translation",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
