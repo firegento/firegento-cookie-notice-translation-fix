@@ -1,7 +1,7 @@
-# FireGento_CookieNoticeFix
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+# FireGento_CookieNoticeFix
 
 Fixes a core bug to allow cookie notice translation ([More in Fabians Blog](blog.fabian-blechschmidt.de/translate-magento-cookie-notice))
 
